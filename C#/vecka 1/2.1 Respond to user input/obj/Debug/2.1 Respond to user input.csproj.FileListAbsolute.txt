@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\bin\Debug\2.1 Respond to user input.exe.config
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\bin\Debug\2.1 Respond to user input.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\bin\Debug\2.1 Respond to user input.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\obj\Debug\2.1 Respond to user input.csprojAssemblyReference.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\obj\Debug\2.1 Respond to user input.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\obj\Debug\2.1 Respond to user input.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\2.1 Respond to user input\2.1 Respond to user input\obj\Debug\2.1 Respond to user input.pdb

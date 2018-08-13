@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\bin\Debug\Checkpoint01 - Trianglar.exe.config
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\bin\Debug\Checkpoint01 - Trianglar.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\bin\Debug\Checkpoint01 - Trianglar.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\obj\Debug\Checkpoint01 - Trianglar.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\obj\Debug\Checkpoint01 - Trianglar.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\obj\Debug\Checkpoint01 - Trianglar.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\Checkpoint01 - Trianglar\Checkpoint01 - Trianglar\obj\Debug\Checkpoint01 - Trianglar.csprojResolveAssemblyReference.cache

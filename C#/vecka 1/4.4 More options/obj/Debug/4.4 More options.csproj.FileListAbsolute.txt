@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\obj\Debug\4.4 More options.csprojAssemblyReference.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\obj\Debug\4.4 More options.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\bin\Debug\4.4 More options.exe.config
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\bin\Debug\4.4 More options.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\bin\Debug\4.4 More options.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\obj\Debug\4.4 More options.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.4 More options\4.4 More options\obj\Debug\4.4 More options.pdb

@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\bin\Debug\3.2 While.exe.config
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\bin\Debug\3.2 While.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\bin\Debug\3.2 While.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\obj\Debug\3.2 While.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\obj\Debug\3.2 While.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\obj\Debug\3.2 While.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.2 While\3.2 While\obj\Debug\3.2 While.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\bin\Debug\4.1 Creating methods.exe.config
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\bin\Debug\4.1 Creating methods.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\bin\Debug\4.1 Creating methods.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\obj\Debug\4.1 Creating methods.csprojAssemblyReference.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\obj\Debug\4.1 Creating methods.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\obj\Debug\4.1 Creating methods.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\4.1 Creating methods\4.1 Creating methods\obj\Debug\4.1 Creating methods.pdb

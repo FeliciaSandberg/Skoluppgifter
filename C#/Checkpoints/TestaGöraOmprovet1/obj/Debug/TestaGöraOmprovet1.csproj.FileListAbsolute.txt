@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\bin\Debug\TestaGöraOmprovet1.exe.config
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\bin\Debug\TestaGöraOmprovet1.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\bin\Debug\TestaGöraOmprovet1.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\obj\Debug\TestaGöraOmprovet1.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\obj\Debug\TestaGöraOmprovet1.exe
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\obj\Debug\TestaGöraOmprovet1.pdb
-C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\TestaGöraOmprovet1\TestaGöraOmprovet1\obj\Debug\TestaGöraOmprovet1.csprojAssemblyReference.cache
