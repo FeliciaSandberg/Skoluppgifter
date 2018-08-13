@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\bin\Debug\3.3 For.exe.config
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\bin\Debug\3.3 For.exe
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\bin\Debug\3.3 For.pdb
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\obj\Debug\3.3 For.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\obj\Debug\3.3 For.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\obj\Debug\3.3 For.exe
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\3.3 For\3.3 For\obj\Debug\3.3 For.pdb
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\bin\Debug\3.3 For.exe.config
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\bin\Debug\3.3 For.exe
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\bin\Debug\3.3 For.pdb
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\obj\Debug\3.3 For.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\obj\Debug\3.3 For.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\obj\Debug\3.3 For.exe
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\3.3 For\3.3 For\obj\Debug\3.3 For.pdb

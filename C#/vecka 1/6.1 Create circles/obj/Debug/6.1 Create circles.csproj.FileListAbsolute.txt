@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\bin\Debug\6.1 Create circles.exe.config
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\bin\Debug\6.1 Create circles.exe
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\bin\Debug\6.1 Create circles.pdb
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\obj\Debug\6.1 Create circles.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\obj\Debug\6.1 Create circles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\obj\Debug\6.1 Create circles.exe
+C:\Users\Administrator\Documents\Projekt\AcceleratedLearning\C#\vecka 1\6.1 Create circles\6.1 Create circles\obj\Debug\6.1 Create circles.pdb

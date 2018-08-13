@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\bin\Debug\3.5 Foreach with break.exe.config
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\bin\Debug\3.5 Foreach with break.exe
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\bin\Debug\3.5 Foreach with break.pdb
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\obj\Debug\3.5 Foreach with break.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\obj\Debug\3.5 Foreach with break.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\obj\Debug\3.5 Foreach with break.exe
+C:\Users\Administrator\source\repos\3.5 Foreach with break\3.5 Foreach with break\obj\Debug\3.5 Foreach with break.pdb
