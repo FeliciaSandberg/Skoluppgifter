@@ -10,14 +10,14 @@ namespace Böcker_1
     {
         static void Main(string[] args)
         {
-            var b1 = new Book();
+            var b1 = new Book("978-3-16-148410-0", "min bok");
 
             b1.Isbn = "978-3-16-148410-0";
             b1.Author = "Kalle";
             b1.NrOfPages = 400;
             b1.ID = 1234;
 
-            var e1 = new ElectronicBook();
+            var e1 = new ElectronicBook("978-3-16-148410-0", "min bok");
 
 
             Console.WriteLine($"Info om boken:");

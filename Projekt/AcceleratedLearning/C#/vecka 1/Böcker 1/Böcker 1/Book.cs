@@ -13,14 +13,25 @@ namespace Böcker_1
 
     class ElectronicBook : Book
     {
-        static string SendBookTo(string emailAdress)
+        public ElectronicBook(string isbun, string minbok) : base(isbun, minbok)
         {
-            return "Skicka boken till...";
+
+        }
+
+        public void SendBookTo(string emailAdress)
+        {
+            Console.WriteLine($"   Send book to {emailAdress}");
         }
     }
 
     class Book : Product
     {
+
+        public Book(string isbn, string minBok) 
+        {
+            
+        }
+       
         public string Author { get; set; }
         public double NrOfPages { get; set; }
         public string SizeOfBook { get; private set; }
