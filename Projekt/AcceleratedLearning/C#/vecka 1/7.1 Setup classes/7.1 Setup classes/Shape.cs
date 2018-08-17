@@ -9,8 +9,8 @@ namespace _7._1_Setup_classes
 
     public abstract class Shape
     {
-        public int Height { get; set; }
-        public int Width { get; set; }
+        public double Height { get; set; }
+        public double Width { get; set; }
 
         public abstract double CalculateArea();
 
@@ -19,7 +19,6 @@ namespace _7._1_Setup_classes
             return "I'm a shape";
         }
     }
-
     class Triangle : Shape
     {
         public override double CalculateArea()
@@ -31,7 +30,6 @@ namespace _7._1_Setup_classes
         {
             return $"I'm triangle with height={Height} and width={Width}";
         }
-
     }
 
     class Circle : Shape
