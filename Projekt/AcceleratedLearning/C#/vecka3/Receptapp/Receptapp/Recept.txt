@@ -1,0 +1,8 @@
+﻿Pannkakor,sojamjölk,bakpulver,havregryn,kokosmjölk,strösocker,banan
+Pasta med sojafärs,lök,sojafärs,tomat,tomatpure,pasta
+Tomatsoppa,tomat,vitlök,lök,basilika
+Flygande Jacob,banan,jordnötter,sojagrädde,kethup,tofu,ris
+Äggmackor,ägg,smör,bröd
+Omelett,ägg,sojamjölk,spenat,tomat
+Sallad,fetaost,tomat,gurka,sallad,spenat,oliver
+Potatis- & purjolökssoppa,potatis,purjolök,buljong
