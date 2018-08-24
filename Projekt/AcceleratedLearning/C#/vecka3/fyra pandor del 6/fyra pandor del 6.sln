@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fyra pandor del 6", "fyra pandor del 6\fyra pandor del 6.csproj", "{6233019D-1F59-4D4C-860A-D0024BF2021C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6233019D-1F59-4D4C-860A-D0024BF2021C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6233019D-1F59-4D4C-860A-D0024BF2021C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6233019D-1F59-4D4C-860A-D0024BF2021C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6233019D-1F59-4D4C-860A-D0024BF2021C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64291E81-BAAC-4F39-BB27-A1C803B4B42B}
+	EndGlobalSection
+EndGlobal

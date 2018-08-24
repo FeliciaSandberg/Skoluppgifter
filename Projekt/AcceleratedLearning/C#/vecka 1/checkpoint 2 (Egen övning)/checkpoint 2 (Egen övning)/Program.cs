@@ -87,6 +87,22 @@ namespace checkpoint_2__Egen_övning_
                 j++;
             }
 
+            //skriv bara ut hanar
+            Console.WriteLine($"\nSkriv bara ut hanar:\n");
+            foreach (var pet in PetList.Where(x=> x.Gender == Gender.Male))
+            {
+                Console.WriteLine($"{pet.Name} - {pet.Gender}");
+            }
+
+            //skriv bara ut honor
+            Console.WriteLine($"\n Skriv bara ut honor \n");
+
+            foreach (var pet in PetList.Where(x => x.Gender == Gender.Female))
+            {
+                Console.WriteLine($"{pet.Name} - {pet.Gender}");
+
+            }
+
             Console.ReadKey();
         }
     }
